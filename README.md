@@ -9,7 +9,7 @@ npm start
 
 API:
 ```
-cd .. chat-api
+cd chat-api
 
 npm install
 
